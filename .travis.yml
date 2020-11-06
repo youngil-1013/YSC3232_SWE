@@ -1,8 +1,11 @@
 language: android
 #dist: trusty
-jdk: 
+jdk:
   - oraclejdk8
 # sudo: false
+
+before_install:
+ - chmod +x gradlew
 
 env:
   global:
