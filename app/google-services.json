@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "430308386984",
+    "firebase_url": "https://bomberkong-b255c.firebaseio.com",
+    "project_id": "bomberkong-b255c",
+    "storage_bucket": "bomberkong-b255c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430308386984:android:af7e7ee91f5e3e50017a9d",
+        "android_client_info": {
+          "package_name": "com.example.bomberkong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430308386984-vutcp3v5oe05vuatgrheit85a8eccsob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNGjhKQ3NMMbUeuAbcRgmTCErLjXOePow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430308386984-vutcp3v5oe05vuatgrheit85a8eccsob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
